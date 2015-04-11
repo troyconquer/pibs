@@ -1,7 +1,7 @@
 {
-  "name": "loyalty",
-  "version": "0.0.0",
-  "description": "Loyalty Mobile App",
+  "name": "pibs",
+  "version": "0.1.0",
+  "description": "Mobile Cart Portal",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccoenraets/loyalty"
+    "url": "https://github.com/troyconquer/pibs"
   },
-  "author": "Christophe Coenraets",
+  "author": "Troy Conquer",
   "bugs": {
-    "url": "https://github.com/ccoenraets/loyalty/issues"
+    "url": "https://github.com/troyconquer/pibs/issues"
   },
-  "homepage": "https://github.com/ccoenraets/loyalty",
+  "homepage": "https://github.com/troyconquer/pibs",
   "engines": {
-    "node": "0.10.35"
+    "iojs": "1.0.x"
   },
   "dependencies": {
     "logfmt": "~0.21.0",
