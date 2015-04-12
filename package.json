@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "logfmt": "~0.21.0",
-    "bcrypt": "~0.7.7",
+    "bcrypt": "~0.8.x",
     "pg": "~2.11.1",
     "node-uuid": "~1.4.1",
     "validator": "~3.5.0",

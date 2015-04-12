@@ -1,5 +1,5 @@
 {
-    "name": "Nibs",
-    "description": "Customer loyalty application",
+    "name": "Pibs",
+    "description": "Mobile Cart Portal",
     "addons": ["heroku-postgresql:hobby-dev"]
 }
